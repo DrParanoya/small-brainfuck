@@ -1,6 +1,6 @@
 # small-brainfuck
-Brainfuck interpreter written in C, focused on code size  
-Currently at ```233``` bytes  
+INCOMPLETE Brainfuck interpreter written in C, focused on code size  
+Currently at ```233``` bytes, tho nested loops do not work!  
 ##
 ### Usage:
 1. Insert your brainfuck code where ```d``` (char array) is initialized (empty double quotes near the start of line 2)
